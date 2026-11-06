@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8337e84145a744d9bc238ceab2a96b, type: 3}
+  m_Name: ZRAssetRegistry
+  m_EditorClassIdentifier: Assembly-CSharp::ZombieRunner.ZRAssetRegistry
+  litOpaque: {fileID: 2100000, guid: 397359368eb4ac94584d95d57fa13116, type: 2}
+  litTransparent: {fileID: 2100000, guid: 4755c1ec80138bd44959e3dd2d617cf7, type: 2}
+  particleAlpha: {fileID: 2100000, guid: f1a0f588f9162f44bac5e9b5e1ce7922, type: 2}
+  particleAdditive: {fileID: 2100000, guid: e451746d1a90ab64d846d406f755b597, type: 2}
+  skyboxProcedural: {fileID: 2100000, guid: e27da01650c321240a076d2b0042b6c8, type: 2}
+  themeSkyboxes:
+  - {fileID: 2100000, guid: c7f49b6412b877a4687928c334ff0c5c, type: 2}
+  - {fileID: 2100000, guid: c36a0b1c86c7fdb46bebd80102008e33, type: 2}
+  - {fileID: 2100000, guid: b80cd814bf29db047a39aace38a34f65, type: 2}
+  - {fileID: 2100000, guid: 937984c02a7e75149b98c18c176ecdc4, type: 2}
+  uiFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  variantKeepers:
+  - {fileID: 2100000, guid: 22849e082c57f7e42ba2db32e14716f5, type: 2}
+  - {fileID: 2100000, guid: e5623897073dab645b99c2f0375b4f4f, type: 2}
+  - {fileID: 2100000, guid: 504de80f28b9cd04e9ba33e11d7e2d1f, type: 2}
+  - {fileID: 2100000, guid: 1f33776b12e053b4b89547ce8c655edb, type: 2}
+  playerModels: []
+  zombieModels: []
+  playerController: {fileID: 0}
+  zombieController: {fileID: 0}
+  themes:
+  - theme: 0
+    groundAlbedo: {fileID: 0}
+    groundNormal: {fileID: 0}
+    vergeAlbedo: {fileID: 0}
+    vergeNormal: {fileID: 0}
+    decor: []
+    jumpObstacles: []
+    slideObstacles: []
+    blockObstacles: []
+    skyboxOverride: {fileID: 0}
+  - theme: 1
+    groundAlbedo: {fileID: 0}
+    groundNormal: {fileID: 0}
+    vergeAlbedo: {fileID: 0}
+    vergeNormal: {fileID: 0}
+    decor: []
+    jumpObstacles: []
+    slideObstacles: []
+    blockObstacles: []
+    skyboxOverride: {fileID: 0}
+  - theme: 2
+    groundAlbedo: {fileID: 0}
+    groundNormal: {fileID: 0}
+    vergeAlbedo: {fileID: 0}
+    vergeNormal: {fileID: 0}
+    decor: []
+    jumpObstacles: []
+    slideObstacles: []
+    blockObstacles: []
+    skyboxOverride: {fileID: 0}
+  - theme: 3
+    groundAlbedo: {fileID: 0}
+    groundNormal: {fileID: 0}
+    vergeAlbedo: {fileID: 0}
+    vergeNormal: {fileID: 0}
+    decor: []
+    jumpObstacles: []
+    slideObstacles: []
+    blockObstacles: []
+    skyboxOverride: {fileID: 0}
+  audio: []
